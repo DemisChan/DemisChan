@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my Apprenticeship with Makers/Openbet
 - 🌱 I’m currently learning Ruby/Java
 - 💬 Ask me about Structural Engineering
-- 📫 How to reach me: https://www.linkedin.com/in/demislavrentidis/
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DemisChan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/demislavrentidis/) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 3 very distinct/different languages(not programming) Greek, Russian, English
 
