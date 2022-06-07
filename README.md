@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DemisChan)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on ...
@@ -12,4 +10,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
