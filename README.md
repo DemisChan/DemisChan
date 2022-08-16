@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I speak 3 very distinct/different languages(not programming) Greek, Russian, English
 
 
-[![DemisChan GitHub stats](https://github-readme-stats.vercel.app/api?username=DemisChan)](https://github.com/anuraghazra/github-readme-stats)
+[![DemisChan GitHub stats](https://github-readme-stats.vercel.app/api?username=DemisChan)](https://github.com/demischangithub-readme-stats)
 
 ## :hammer_and_wrench: Languages and Tools:
 <div>
