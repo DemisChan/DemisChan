@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DemisChan&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 - 🔭 I’m Juior Android Developer @AtomBank
 - 🌱 I’m currently expanding my knowledge on Kotlin, KMM and Android Development
